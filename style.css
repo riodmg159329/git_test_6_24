@@ -1,9 +1,19 @@
 body {
     color: blueviolet;
 }
-h1{
-    color:blue;
+
+h1 {
+    color: blue;
 }
-footer{
-    color:green
+
+h2 {
+    color: brown
+}
+
+h3 {
+    color: red
+}
+
+footer {
+    color: green
 }
